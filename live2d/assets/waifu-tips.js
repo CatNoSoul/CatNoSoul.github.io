@@ -20,7 +20,7 @@ window.live2d_settings = Array(); /*
 
 
 // 后端接口
-live2d_settings["baseUrl"] = "https://client.getfdp.today/live2d/resources"
+live2d_settings["baseUrl"] = "https://catnosoul.github.io/live2d/resources"
 live2d_settings["models"] = [
     "HyperdimensionNeptunia/histoirenohover/index.json",
     "HyperdimensionNeptunia/blanc_swimwear/index.json",
